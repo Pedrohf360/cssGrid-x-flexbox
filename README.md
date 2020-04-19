@@ -18,7 +18,7 @@ Curso pago Origamid: https://www.youtube.com/redirect?v=x-4z_u8LcGc&event=video_
 .gridClass {
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* 2 colunas com 1 fração cada */
-    grid-grap: 20px; /* Funciona como se aplicasse margem entre os itens */
+    grid-gap: 20px; /* Funciona como se aplicasse margem entre os itens */
     margin: 0 auto; /* Centraliza itens na tela */
     max-width: 800px; /**/
     padding: 10px;
